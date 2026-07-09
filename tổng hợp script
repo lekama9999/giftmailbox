@@ -1,0 +1,27 @@
+Bật vpn vào mới sài được
+Owner Lê Kama Discord @_bot122
+
+script không tự bật auto claim
+
+getgenv().script_key = ""
+loadstring(game:HttpGet("https://pastebin.com/raw/WdMV8d2f"))()
+
+
+
+script  này tự bật auto claim
+
+getgenv().script_key = ""
+loadstring(game:HttpGet("https://pastebin.com/raw/s0iWQzRZ"))()
+
+
+
+
+Bản cấp cứu
+getgenv().script_key = "" (thêm key  "" nó tự nhập)
+
+getgenv().script_key = ""
+loadstring(game:HttpGet("https://pastebin.com/raw/gFJYK2EK"))()
+
+Script anti afk
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/lekama9999/39ef4fd7aea8e24079425e54dc81ed93/raw/73818097b65dfd3e2958cb7ad952acb67efd40ae/antiafk"))()
